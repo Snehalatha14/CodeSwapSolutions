@@ -38,6 +38,7 @@ To run the project locally:
    git clone https://github.com/your-username/project-repo.git
    
 2. Navigate to the project directory:
-   cd project-repo
+   ```bash
+   **cd** project-repo
 
-3. Open **index.html** in your browser to see the platform in action
+4. Open **index.html** in your browser to see the platform in action
