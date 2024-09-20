@@ -22,8 +22,8 @@ Each of these applications is accessible via a user-friendly interface, offering
 
 - **HTML**: For structuring the web pages.
 - **CSS**: To ensure the responsiveness of the platform and to enhance the visual appeal.
-- **JavaScript**: For adding interactivity and functionality to the web applications, including the Drawing Application and Rock-Paper-Scissors Game.
-
+- **JavaScript**: For adding interactivity and functionality to the web applications.
+  
 ## Website Link
 
 You can visit the live platform here: [CodeSwapSolutions Project](https://code-swap-solutions.vercel.app/#about)
